@@ -1,1 +1,1 @@
-k8s.gcr.io/ingress-nginx/controlle:v0.40.2
+k8s.gcr.io/ingress-nginx/controller:v0.46.0
